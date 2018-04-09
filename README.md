@@ -18,8 +18,8 @@ Mit Unterstützung von [Stefan Kasberger](http://stefankasberger.at/) ([@stefank
 Lizenz: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) (sofern nicht explizit anders erwähnt)
 
 
-Struktur
---------
+Ablauf
+------
 
 
 ### Vorlesung ###
@@ -55,4 +55,15 @@ Struktur
 | 26. April | 08:45 - 11:00 | -              |
 | 08. April | 10:30 - 12:00 | -              |
 
+
+Ziele & Benotung
+----------------
+
+Alle sollen programmieren!
+
+Projekt Abgabe.
+
+Projekt alleine kann alle Punkte bringen.
+
+Mitarbeit in Vorlesung und Projekt können auch einfließen (Bonuspunkte).
 
