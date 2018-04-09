@@ -1,7 +1,7 @@
 Vorlesung 2
 ===========
 
-Zeitraum: 222. März, 14:00 - 16:15
+Zeitraum: 22. März, 14:00 - 16:15
 
 Ort: FH Joanneum, G.AP152.108
 
