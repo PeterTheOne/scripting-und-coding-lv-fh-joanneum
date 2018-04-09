@@ -21,10 +21,6 @@ Lizenz: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) (sofern nicht 
 Struktur
 --------
 
-21. März - 12. April: Vorlesung
-
-17. April - 8. Mai: Projekt
-
 
 ### Vorlesung ###
 
