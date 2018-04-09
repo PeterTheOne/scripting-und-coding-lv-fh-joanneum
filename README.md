@@ -30,7 +30,7 @@ Struktur
 
 | Datum     | Zeit          | Inhalt         | Folien |
 |-----------|---------------|----------------|--------|
-| 21. März  | 13:00 - 15:15 | HTML + CSS     | -      |
+| 21. März  | 13:00 - 15:15 | [HTML + CSS](vorlesung-1/) | [scripting-und-coding_1_folien.pdf](vorlesung-1/scripting-und-coding_1_folien.pdf) |
 | 22. März  | 14:00 - 16:15 | SVG            | -      |
 | -         | -             | Osterferien    | -      |
 | 10. April | 15:30 - 17:45 | Javascript 1   | -      |
