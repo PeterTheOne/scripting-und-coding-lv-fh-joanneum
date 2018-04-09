@@ -16,19 +16,18 @@ Dokumente und verlinkte Seiten
  - Neuwal Barometer: [Aktuelle Version](https://neuwal.com/barometer/profile.php?b=11&p=1), [Alte Version](https://neuwal.github.io/barometer/) mit [Code](https://github.com/neuwal/barometer)
  - [Feinstaub-Graz](http://feinstaub-graz.at/): [Code](https://github.com/PPOE/feinstaub-meter).
  - [Mehrheiten-Rechner](http://mehrheiten-rechner.at/): [Code](https://github.com/PeterTheOne/mehrheiten-rechner)
- - [HTML Elemente Codepen](https://codepen.io/PeterTheOne/pen/oqZbPg)
- - [CSS Deklarationen](https://codepen.io/PeterTheOne/pen/xWqYog)
- - [CSS Selektoren](https://codepen.io/PeterTheOne/pen/ZxeOzQ)
- - [CSS Selektoren 2](https://codepen.io/PeterTheOne/pen/JLWXJX)
+ - [CodePen: HTML Elemente](https://codepen.io/PeterTheOne/pen/oqZbPg)
+ - [CodePen: CSS Deklarationen](https://codepen.io/PeterTheOne/pen/xWqYog)
+ - [CodePen: CSS Selektoren](https://codepen.io/PeterTheOne/pen/ZxeOzQ)
+ - [CodePen: CSS Selektoren 2](https://codepen.io/PeterTheOne/pen/JLWXJX)
  - [https://developer.mozilla.org](https://developer.mozilla.org)
  - [WS15/16 - MTD114 Hypermedia 1 - Teil 2: HTML-Grundlagen](https://www.youtube.com/watch?v=m9VmKANwHO8)
  - [http://www.htmlandcssbook.com/](http://www.htmlandcssbook.com/)
  - [Tastaturkürzel](Tastaturkuerzel.md)
 
 
-
 Inhalt
 -------
 
-...
+(siehe Folien oben)
 
