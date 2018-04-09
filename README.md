@@ -15,6 +15,8 @@ Lehrender: [Peter Grassberger](http://petergrassberger.at/) ([@PeterTheOne](http
 
 Mit Unterstützung von [Stefan Kasberger](http://stefankasberger.at/) ([@stefankasberger](https://twitter.com/stefankasberger))
 
+Lizenz: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) (sofern nicht explizit anders erwähnt)
+
 
 Struktur
 --------
