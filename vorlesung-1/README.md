@@ -13,4 +13,4 @@ Inhalt
 
 - ...
 
-[Tastaturkürzel](Tastaturkürzel.md)
+[Tastaturkürzel](Tastaturkuerzel.md)
