@@ -17,8 +17,10 @@ Dokumente und verlinkte Seiten
  - [https://petertheone.github.io/bpw16-vis/](https://petertheone.github.io/bpw16-vis/)
  - [https://neuwal.github.io/barometer/](https://neuwal.github.io/barometer/)
  - [http://feinstaub-graz.at/](http://feinstaub-graz.at/)
- 
- - ...
+ - [CodePen: show, hide (jQuery)](https://codepen.io/PeterTheOne/pen/MVRobe?editors=1010)
+ - [CodePen: Add / remove Class (jQuery)](https://codepen.io/PeterTheOne/pen/PRgjJv)
+ - [CodePen: functions](https://codepen.io/PeterTheOne/pen/dmLRgQ?editors=1010)
+ - [CodePen: on click (jQuery)](https://codepen.io/PeterTheOne/pen/bvJrwB?editors=1010)
  
 (Markdown)
  - [https://daringfireball.net/projects/markdown/basics](https://daringfireball.net/projects/markdown/basics)
