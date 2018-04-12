@@ -32,7 +32,7 @@ Dokumente und verlinkte Seiten
  
 
 Inhalt
--------
+------
 
 ...
 
