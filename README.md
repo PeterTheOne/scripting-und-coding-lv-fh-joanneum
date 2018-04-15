@@ -31,7 +31,7 @@ Ablauf
 | -         | -             | Osterferien    | -      |
 | 10. April | 15:30 - 17:45 | [Javascript 1](vorlesung-3/) | [scripting-und-coding_3_folien.pdf](vorlesung-3/scripting-und-coding_3_folien.pdf) |
 | 11. April | 09:45 - 12:00 | [Javascript 2](vorlesung-4/) | [scripting-und-coding_4_folien.pdf](vorlesung-4/scripting-und-coding_4_folien.pdf) |
-| 12. April | 14:00 - 16:15 | [Javascript 3](vorlesung-5/) | -      |
+| 12. April | 14:00 - 16:15 | [Javascript 3](vorlesung-5/) | [scripting-und-coding_5_folien.pdf](vorlesung-5/scripting-und-coding_5_folien.pdf) |
 
 
 ### Projekt: Gruppe A ###

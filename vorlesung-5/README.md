@@ -5,7 +5,7 @@ Zeitraum: 12. April, 14:00 - 16:15
 
 Ort: FH Joanneum, G.AP152.108
 
-Folien: ...
+Folien: [scripting-und-coding_5_folien.pdf](scripting-und-coding_5_folien.pdf)
 
 
 Dokumente und verlinkte Seiten
@@ -18,16 +18,12 @@ Dokumente und verlinkte Seiten
  - [https://neuwal.github.io/barometer/](https://neuwal.github.io/barometer/)
  - [http://feinstaub-graz.at/](http://feinstaub-graz.at/)
  - [CodePen: show, hide (jQuery)](https://codepen.io/PeterTheOne/pen/MVRobe?editors=1010)
+ - [.hide() (jQuery)](https://api.jquery.com/hide)
+ - [.show() (jQuery)](https://api.jquery.com/show/)
  - [CodePen: Add / remove Class (jQuery)](https://codepen.io/PeterTheOne/pen/PRgjJv)
- - [CodePen: functions](https://codepen.io/PeterTheOne/pen/dmLRgQ?editors=1010)
+ - [.addClass() (jQuery)](https://api.jquery.com/addClass/)
+ - [.removeClass() (jQuery)](https://api.jquery.com/removeClass/)
  - [CodePen: on click (jQuery)](https://codepen.io/PeterTheOne/pen/bvJrwB?editors=1010)
- 
-(Markdown)
- - [https://daringfireball.net/projects/markdown/basics](https://daringfireball.net/projects/markdown/basics)
- - [https://en.wikipedia.org/wiki/Markdown#Example](https://en.wikipedia.org/wiki/Markdown#Example)
- - [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
- - [CodePen: Markdown](https://codepen.io/PeterTheOne/pen/wmdRbg)
- 
 
 Inhalt
 ------
