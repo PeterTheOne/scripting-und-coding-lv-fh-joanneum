@@ -167,7 +167,7 @@ eine Deklaration betreffen soll.
 
 Arten nach denen Selektiert werden kann:
 
- - nach HTML Element: `h1 { ... }`, `p { ... }`, etc.
+ - nach HTML Element: `elementBezeichnung { ... }`, `p { ... }`, etc.
  - mit `#` nach id: `#hierStehtEineId { ... }`, `#element-1 { ... }`, etc.
  - mit `.` nach class: `.hierStehtEineClass { ... }`, `.roundCorner { ... }`, etc.
  - mit `:` nach pseudo-class: `:pseudoClass { ... }`, `:last-child { ... }`, etc.
