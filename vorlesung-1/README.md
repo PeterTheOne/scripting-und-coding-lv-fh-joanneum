@@ -29,5 +29,107 @@ Dokumente und verlinkte Seiten
 Inhalt
 ------
 
-(siehe Folien oben)
+### HTML Elemente
+
+HTML Elemente beschreiben/notieren den Inhalt einer HTML Seite von der Bedeutung her (Semantisch). Nicht von der 
+darstellung her, dafür verwendet man CSS.
+
+Die Elemente bestehen aus den Klammern `<` und `>` und der Elementbezeichnung. Es gibt Elemente die sich öffen und 
+schließen `<p></p>` und andere die sich selbst schließen `<br />`. Der Schrägstrich `/` zeigt den schluss eines Elements.
+
+Zwischen einem öffnenden und schließenden Element kann Text stehen oder weitere HTML Elemente. Durch verschachteln von 
+Elementen ergibt sich eine Baumstruktur auch [DOM](https://de.wikipedia.org/wiki/Document_Object_Model) genannt. 
+Übergeordnete Element werden parent bzw. Eltern genannt und untergeordnete Elemente child bzw. Kind. (Nicht jedes
+Element darf jedes andere Element enthalten.)
+
+Beispiele: https://codepen.io/PeterTheOne/pen/oqZbPg
+
+Elemente die wir uns angeschaut haben:
+
+ - [`<p>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/p): Paragraph
+ - [`<h1>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/h1) bis `<h6>`: Überschriften
+ - [`<div>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/div): Division Element bzw. generischer Container
+ - [`<br />`](https://developer.mozilla.org/de/docs/Web/HTML/Element/br): Zeilenumbruch
+ - [`<header>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/header): repräsentiert eine Gruppe von Einführungs- oder Navigationshilfen
+ - [`<footer>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/footer): Fußzeile
+ - [`<img />`](https://developer.mozilla.org/de/docs/Web/HTML/Element/img): Bild Attribute: `src=""`, `alt=""`, etc.
+ - [`<blockquote>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/blockquote): Zitateblock
+ - [`<ul>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/ul): Ungeordnete Liste
+ - [`<ol>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/ol): Geordnete Liste
+ - [`<li>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/li): Listenelement als Kind (child) von `<ul>` oder `<ol>`
+ - [`<a>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/a): Anchor element bzw. Link. Attribute: `href=""`, etc.
+ - [`<em>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/em): Emphasis bzw. Betonung. ()Meist kursiv dargestellt.)
+ - [`<strong>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/strong): Strong Importance bzw. starke Betonung. (Meist fett dargestellt.)
+ - [`<table>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/table): Tabelle
+ - [`<tr>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/tr): Tabellenzeile
+ - [`<th>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/th): Tabellenkopf Element
+ - [`<td>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/td): Tabellendaten Element
+ - [`<form>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/form): Formular
+ - [`<input>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/input): Eingeabe Feld
+ - [`<button>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/button): klickbarer Knopf
+ 
+Viele weitere Elemente:
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+https://developer.mozilla.org/de/docs/Web/HTML/Element
+
+
+### HTML Attribute
+
+HTML Elemente können Attribute enthalten, Werte die diese Elemente konfigurieren oder ihr Verhalten anpassen.
+
+Attribute werden innerhalb der Klammern `<>` und nach der Elementbezeichnung des öffnenden Elements geschrieben `<a href=""> ... </a>`. 
+Das Attribut besteht aus der Attributbezeichnung, gefolgt von einem Istgleich `=` und Anführungszeichen `""`, zwischen 
+den Anführungszeichen steht der AttributWert (value) `href="https://www.fh-joanneum.at"`.
+
+Globale Attribute können mit jedem HTML Element verwendet werden, andere Attribute nur mit spezifischen Elementen.
+
+Attribute die wir uns angeschaut haben:
+
+ - [`title=""`](https://developer.mozilla.org/de/docs/Web/HTML/Globale_Attribute/title) (Global): Text über das Element. Wird meist als Tooltip angezeigt.
+ - [`id=""`](https://developer.mozilla.org/de/docs/Web/HTML/Globale_Attribute/id) (Global): Eindeutige Bezeichnung. Gleiche bezeichnung darf es nur ein Mal geben.
+ - [`class=""`](https://developer.mozilla.org/de/docs/Web/HTML/Globale_Attribute/class) (Global): Ein oder mehrere Klassen, erlaubt das selektieren über CSS.
+ - [`href=""`](https://developer.mozilla.org/de/docs/Web/HTML/Element/a#attr-href) (`<a>`, etc.): URL einer verlinkten ressource.
+ - [`src=""`](https://developer.mozilla.org/de/docs/Web/HTML/Element/img#attr-src) (`<img>`, etc.): URL von einem eingebetteten Inhalt.
+ - [`alt=""`](https://developer.mozilla.org/de/docs/Web/HTML/Element/img#attr-alt) (`<img>`, etc.): Alternativer Text falls ein Bild nicht angezeigt werden kann.
+
+Weitere Attribute:
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
+https://developer.mozilla.org/de/docs/Web/HTML/Attributes
+
+
+### HTML Grundgerüst
+
+Dateiendung `.html`.
+
+```
+<!DOCTYPE html>
+<html>
+  <head>
+	  <meta charset="utf-8">
+    <title>SuC: HTML Wiederholung</title>
+  </head>
+  <body>
+    <h1>HTML Wiederholung</h1>
+    
+  </body>
+</html>
+```
+
+ - [`<!DOCTYPE html>`](https://developer.mozilla.org/en-US/docs/Glossary/Doctype): Gibt an dass es ein HTML document ist.
+ - [`<html>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/html): Ist das erste Element
+ - [`<head>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/head): HTML Dokument Kopf, enthält Dokumenttitel und Metainformationen.
+ - [`<body>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/body): Inhalt des HTML Dokuments.
+ - [`<meta charset="utf-8">`](https://developer.mozilla.org/de/docs/Web/HTML/Element/meta#attr-charset): setzt den Zeichensatz auf utf-8
+ - [`<title>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/title): Dokumenttitel: Ist der Seitentitel der oben im Browserfenstern und Browsertab steht.
+
+
+### CSS Deklarationen
+
+
+### CSS Selektoren
+
+
+
 
