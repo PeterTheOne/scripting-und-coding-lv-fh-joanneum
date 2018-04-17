@@ -148,16 +148,21 @@ gefolgt von einem Doppelpunkt `:` und dem Wert der Eigenschaft. Zum Beispiel `co
 
 Deklarationen die wir uns angeschaut haben:
 
- - `background-color`: Hintergrundfarbe
- - `color`: Schriftfarbe
+ - [`background-color`](https://developer.mozilla.org/de/docs/Web/CSS/background-color): Hintergrundfarbe
+ - [`color`](https://developer.mozilla.org/de/docs/Web/CSS/color): Schriftfarbe
  - [`font-family`](https://developer.mozilla.org/de/docs/Web/CSS/font-family): Schriftfamilie
- - `font-size`: Schriftgröße
- - `margin`: Außenabstand aller vier Seiten eines Elements
- - `padding`: Innenabstand aller vier Seiten eines Elements.
+ - [`font-size`](https://developer.mozilla.org/de/docs/Web/CSS/font-size): Schriftgröße
+ - [`margin`](https://developer.mozilla.org/de/docs/Web/CSS/margin): Außenabstand aller vier Seiten eines Elements
+ - [`padding`](https://developer.mozilla.org/de/docs/Web/CSS/padding): Innenabstand aller vier Seiten eines Elements.
 
 Weitere:
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference
+
+CSS Werte werden oft zusätzlich mit Einheiten (units) beschrieben. Am häufigsten sind dabei die absolute Einheit pixel `px` 
+und die relativen Einheiten `em` oder`rem`. Daneben gibt es noch Farben, Prozentwerte und viele andere.
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Values_and_units
 
 
 #### CSS Selektoren
