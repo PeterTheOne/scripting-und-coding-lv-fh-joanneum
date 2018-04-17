@@ -29,10 +29,12 @@ Dokumente und verlinkte Seiten
 Inhalt
 ------
 
-### HTML Elemente
+### HTML
 
 HTML Elemente beschreiben/notieren den Inhalt einer HTML Seite von der Bedeutung her (Semantisch). Nicht von der 
 darstellung her, dafür verwendet man CSS.
+
+#### HTML Elemente
 
 Die Elemente bestehen aus den Klammern `<` und `>` und der Elementbezeichnung. Es gibt Elemente die sich öffen und 
 schließen `<p></p>` und andere die sich selbst schließen `<br />`. Der Schrägstrich `/` zeigt den schluss eines Elements.
@@ -74,7 +76,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 https://developer.mozilla.org/de/docs/Web/HTML/Element
 
 
-### HTML Attribute
+#### HTML Attribute
 
 HTML Elemente können Attribute enthalten, Werte die diese Elemente konfigurieren oder ihr Verhalten anpassen.
 
@@ -99,7 +101,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
 https://developer.mozilla.org/de/docs/Web/HTML/Attributes
 
 
-### HTML Grundgerüst
+#### HTML Grundgerüst
 
 Dateiendung `.html`.
 
@@ -125,10 +127,67 @@ Dateiendung `.html`.
  - [`<title>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/title): Dokumenttitel: Ist der Seitentitel der oben im Browserfenstern und Browsertab steht.
 
 
-### CSS Deklarationen
+### CSS
+
+CSS ist, im gegensatz zu HTML, für das aussehen von einem HTML Dokument zuständig.
+
+CSS besteht aus Regelsätzen (auch Regeln). Die Grundbausteine von diesen Regeln sind Selektoren und Deklarationen. Eine 
+Regeln beginnt mit einem Selektor, gefolgt von Klammern `{}` in denen eine oder mehrere Deklarationen stehen können.
+
+```
+  h1 {
+    color: blue;
+  }
+```
 
 
-### CSS Selektoren
+#### CSS Deklarationen
+
+Eine CSS Deklaration setzt den Wert einer CSS Style Eigenschaft. Zuerst steht die Bezeichnung der CSS Style Eigenschaft, 
+gefolgt von einem Doppelpunkt `:` und dem Wert der Eigenschaft. Zum Beispiel `color: red;` setzt die Schriftfarbe Rot.
+
+Deklarationen die wir uns angeschaut haben:
+
+ - `background-color`: Hintergrundfarbe
+ - `color`: Schriftfarbe
+ - [`font-family`](https://developer.mozilla.org/de/docs/Web/CSS/font-family): Schriftfamilie
+ - `font-size`: Schriftgröße
+ - `margin`: Außenabstand aller vier Seiten eines Elements
+ - `padding`: Innenabstand aller vier Seiten eines Elements.
+
+Weitere:
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference
+
+
+#### CSS Selektoren
+
+CSS Deklarationen können auf HTML Elemente angewandt werden. Mit einem Selektor wird festgelegt welche HTML Elemente 
+eine Deklaration betreffen soll.
+
+Arten nach denen Selektiert werden kann:
+
+ - nach HTML Element: `h1 { ... }`, `p { ... }`, etc.
+ - mit `#` nach id: `#hierStehtEineId { ... }`, `#element-1 { ... }`, etc.
+ - mit `.` nach class: `.hierStehtEineClass { ... }`, `.roundCorner { ... }`, etc.
+ - mit `:` nach pseudo-class: `:pseudoClass { ... }`, `:last-child { ... }`, etc.
+
+Weiters lassen sich auch mehrere Selektoren mit `,` an einander reihen und Selektoren mit einem Leerzeichen ` ` 
+verschachteln um Kindelemente von Elementen zu selektieren.
+
+https://codepen.io/PeterTheOne/pen/ZxeOzQ
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
