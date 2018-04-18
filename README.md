@@ -36,24 +36,24 @@ Ablauf
 
 ### Projekt: Gruppe A ###
 
-| Datum     | Zeit          | Inhalt         |
-|-----------|---------------|----------------|
-| 17. April | 13:00 - 15:15 | [HTML + CSS](projekt-1/) |
-| 18. April | 09:45 - 12:00 | SVG            |
-| 24. April | 09:45 - 12:00 | Javascript     |
-| 27. April | 08:45 - 12:00 | Javascript     |
-| 08. April | 08:45 - 10:15 | Präsentation   |
+| Datum     | Zeit          | Inhalt         | Projektanforderung |
+|-----------|---------------|----------------|--------------------|
+| 17. April | 13:00 - 15:15 | [HTML + CSS](projekt-1/) | [spec-1,md](projekt-1/spec-1,md) | 
+| 18. April | 09:45 - 12:00 | [SVG](projekt-2/) | [spec-2,md](projekt-2/spec-2,md) | 
+| 24. April | 09:45 - 12:00 | Javascript     | - |
+| 27. April | 08:45 - 12:00 | Javascript     | - |
+| 08. April | 08:45 - 10:15 | Präsentation   | - |
 
 
 ### Projekt: Gruppe B ###
 
-| Datum     | Zeit          | Inhalt         |
-|-----------|---------------|----------------|
-| 17. April | 15:30 - 17:45 | [HTML + CSS](projekt-1/) |
-| 19. April | 14:00 - 16:15 | SVG            |
-| 25. April | 08:45 - 12:00 | Javascript     |
-| 26. April | 08:45 - 11:00 | Javascript     |
-| 08. April | 10:30 - 12:00 | Präsentation   |
+| Datum     | Zeit          | Inhalt         | Projektanforderung |
+|-----------|---------------|----------------|--------------------|
+| 17. April | 15:30 - 17:45 | [HTML + CSS](projekt-1/) | [spec-1,md](projekt-1/spec-1,md) | 
+| 19. April | 14:00 - 16:15 | [SVG](projekt-2/) | [spec-2,md](projekt-2/spec-2,md) | 
+| 25. April | 08:45 - 12:00 | Javascript     | - |
+| 26. April | 08:45 - 11:00 | Javascript     | - |
+| 08. April | 10:30 - 12:00 | Präsentation   | - |
 
 
 Ziele & Benotung

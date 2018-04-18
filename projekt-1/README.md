@@ -9,6 +9,7 @@ Folien: [scripting-und-coding_6_folien.pdf](scripting-und-coding_6_folien.pdf)
 
 Projektanforderungen 1: [spec-1.md](spec-1.md)
 
+
 Dokumente und verlinkte Seiten
 ------------------------------
 
