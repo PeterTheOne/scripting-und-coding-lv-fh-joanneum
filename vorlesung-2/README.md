@@ -16,7 +16,7 @@ Dokumente und verlinkte Seiten
  - [Working with SVG — A Primer](https://slides.com/sarasoueidan/working-with-svg-a-primer#/) Folien von [Sara Soueidan](https://www.sarasoueidan.com/) ([@SaraSoueidan](https://twitter.com/sarasoueidan))
  - [Understanding SVG Coordinate Systems and Transformations](https://www.sarasoueidan.com/blog/svg-coordinate-systems/)
  - [CodePen: SVG Elemente](https://codepen.io/PeterTheOne/pen/QmvBbo)
- - [CodePen: SVG Haus](https://codepen.io/PeterTheOne/pen/LdyBzz)
+ - [CodePen: SVG Haus](https://codepen.io/PeterTheOne/pen/YaVjVe)
  - [CodePen: SVG Beispiel selbst](https://codepen.io/PeterTheOne/pen/XERBzj)
  
 
