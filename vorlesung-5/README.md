@@ -28,5 +28,69 @@ Dokumente und verlinkte Seiten
 Inhalt
 ------
 
+### Schleifen
+
+Wenn man in programmiersprachen etwas mehrfach ausführen will kann man entweder dieses etwas mehrfach hinschreiben oder man verwendet schleifen. Eine Schleife besteht Grundsätzlich aus zwei Teilen: Der erste Teil `(...)` bestimmt wie lange bzw. wie oft die Schleife ausgeführt wird, der zweite Teil `{...}` beinhaltet was bei jedem ausführen passieren soll.
+
 ...
+
+```
+var books = ["Animal", "The Little Prince", "Fahrenheit 451"];
+
+for (var i = 0; i < books.length; i = i + 1) {
+  $("#list").append("<li>" + books[i] + "</li>");
+}
+
+```
+
+### Objekte (Dictionary / JSON)
+
+(siehe Slides)
+
+
+### show, hide (jQuery)
+
+ - [.hide() (jQuery)](https://api.jquery.com/hide)
+ - [.show() (jQuery)](https://api.jquery.com/show/)
+
+```
+$('#navy').hide();
+$('.round').hide();
+$('.fontsizes').show();
+```
+
+### Add / remove Class (jQuery)
+
+(siehe Slides)
+
+
+
+### on click (jQuery)
+
+Mit javascript kann auf sogenannte Events (Ereignisse) gehört und reagiert werden. Es gibt verschiedenste Events: Wenn etwas geklickt wird `click`, wenn sich die Maus bewegt, wenn sich ein inputfeld verändert, etc. Um interaktive Webseiten zu erstellen reagiert man auf diese Events.
+
+Events sind an HTML Element gebunden, deshalb muss man erstmal ein Element selektieren `$('#clickme')`. Mit `.on()` hört und reagiert man auf Events. `.on()` besteht aus zwei Teilen: 1. Muss man angeben auf welches Event man hören möchte, 2. Muss man schreiben wass passieren soll wenn das Event eintritt `.on(event, function() { /* do something*/ })`.
+
+
+Beispiel:
+
+```
+$('#clickme').on('click', function() {
+  $('#welcome').text("Welcome!");
+});
+```
+
+https://api.jquery.com/on/
+
+
+
+
+
+
+
+
+
+
+
+
 

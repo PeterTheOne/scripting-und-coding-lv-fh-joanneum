@@ -36,3 +36,42 @@ Inhalt
 
 ...
 
+
+### Hallo Welt
+
+Es gibt drei verschiedene Möglichkeiten etwas auzugeben.
+
+ - `alert('Hallo Welt!');`: Alert popupfenster
+ - `console.log('Hallo Welt!');`: Nur sichtbar wenn man im Browser die Seite untersucht.
+ - Text im HTML einfügen:
+   - `document.getElementById('textField').innerText = 'Hallo Welt!';` oder
+   - `$('#textField').text('Hallo Welt!');` (jQuery)
+
+
+### Variablen (Zwischenspeichern)
+    
+Variablen sind Zwischenspeichern, ein Wert kann damit mit einem Namen/Label versehen werden auf dass dann später wieder zugegriffen werden kann. Beim ersten definieren (initialisieren) einer Variable verwendet man `var`. Danach kommt der Name der Variable den man selbst wählen kann. Der Wert der Variable wird mit einem "ist gleich" `=` der Variable zugewiesen. Hinter Gleichheitszeichen steht der Wert, abgeschlossen wird die zeile mit einem Strichpunkt `;`.
+
+Es gibt verschiedene Typen von Werten: Texte bzw. Zeichenketten auch String genannt, Logische Werte als Boolean, Zahlen als Integer oder Float (Kommazahlen).
+
+Der Wert einer Variable kann man nach der ersten zuweisung ändern in dem man der Variable erneut mit einem "ist gleich" `=` einen Wert zuweist. (Dabei braucht es nicht mehr das Wort `var`).
+
+```
+var welcomeText = 'Hallo Welt!';          // String
+var raining = true;                       // Boolean
+raining = false;
+var personCount = 5;                      // Integer
+var happiness = 0.9;                      // Float
+```
+
+### jQuery CSS Selektoren
+
+(siehe Slides)
+
+### Operationen (Rechnen)
+
+(siehe Slides)
+    
+### Vergleiche
+
+(siehe Slides)

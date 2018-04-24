@@ -24,6 +24,32 @@ Dokumente und verlinkte Seiten
 
 Inhalt
 ------
+    
+### Vergleiche
 
-...
+(siehe Slides)
+
+### If, Else, Elseif
+
+(siehe Slides)
+
+### Boolesche Logik
+
+(siehe Slides)
+
+### Arrays (Listen)
+
+Variablen können nicht nur einzelne Werte enthalten sondern auch mehrere auf einmal. Eine Möglichkeit ist es Werte in einer Liste (Array) zu speichern. Dabei werden die Werte in Klammern `[...]` geschrieben, jeder Wert ist mit einem Bestrich getrennt `[wert1, wert2, wert3]`. Dabei können die Werte von verschiedenen Typen sein (String, Integer, boolean, etc.).
+
+`var people = [ 'peter', 'stefan', 'david' ]; // array`
+
+Die Länge vom Array bekommt man mit `.length`, zb. `people.length`.
+
+In javascript zählt man arrays von 0 beginnend. Mit den Klammern `[]` kann man auf die einzelnen Werte vom Array zugreifen, zb. `people[0]`.
+
+
+### jQuery: append & remove
+
+(siehe Slides)
+
 
