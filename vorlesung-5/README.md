@@ -30,9 +30,17 @@ Inhalt
 
 ### Schleifen
 
-Wenn man in programmiersprachen etwas mehrfach ausführen will kann man entweder dieses etwas mehrfach hinschreiben oder man verwendet schleifen. Eine Schleife besteht Grundsätzlich aus zwei Teilen: Der erste Teil `(...)` bestimmt wie lange bzw. wie oft die Schleife ausgeführt wird, der zweite Teil `{...}` beinhaltet was bei jedem ausführen passieren soll.
+Wenn man in programmiersprachen etwas mehrfach ausführen will kann man entweder dieses 
+etwas mehrfach hinschreiben oder man verwendet schleifen. Eine Schleife besteht 
+Grundsätzlich aus zwei Teilen: Der erste Teil `(...)` bestimmt wie lange bzw. wie oft 
+die Schleife ausgeführt wird, der zweite Teil `{...}` beinhaltet was bei jedem 
+ausführen passieren soll.
 
-...
+Der erste Teil der for-Schleife `for (...)` besteht selbst wieder aus drei Bereichen 
+die durch einen Strichpunkt `;` getrennt sind: 1. Wird nur ein Mal am Beginn 
+ausgeführt, 2. Wird jedes Mal überprüft (wenn `true` wird die Schleife weiter ausgeführt, 
+wenn `false` wird die Schleife abgebrochen), 3. Wird jedes Mal am Ende ausgeführt
+`for(einMalAmBeginn; jedesMalÜberprüft; jedesMalAmEnde)`.
 
 ```
 var books = ["Animal", "The Little Prince", "Fahrenheit 451"];
