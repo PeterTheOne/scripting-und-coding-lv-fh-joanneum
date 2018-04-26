@@ -7,7 +7,7 @@ Scripting & Coding Projektanforderungen.
 javascript
 ----------
 
-### Vorbereitung
+### Abgabe
 
  - Überprüfen ob alles funktioniert und das HTML valide ist: https://validator.w3.org
    
