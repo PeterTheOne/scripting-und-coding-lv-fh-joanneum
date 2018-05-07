@@ -13,4 +13,4 @@ javascript
    
    
  - Projekt auf GitHub laden
- - Projekt als ZIP Datei, Folien und GitHub Link per Mail an peter.grassberger@fh-joanneum.at
+ - Projekt als ZIP Datei, Folien (falls vorhanden) und GitHub Link per Mail an peter.grassberger@fh-joanneum.at
