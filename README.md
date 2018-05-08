@@ -67,3 +67,21 @@ Projekt alleine kann alle Punkte bringen.
 
 Mitarbeit in Vorlesung und Projekt können auch einfließen (Bonuspunkte).
 
+
+Abgegebene Projekte
+-------------------
+
+
+| GitHub | GitHub Pages |
+|--------|--------------|
+|[sophiji94/Gemeindefusion-Steiermark](https://github.com/sophiji94/Gemeindefusion-Steiermark/tree/gh-pages)|[Gemeindefusion Steiermark](https://sophiji94.github.io/Gemeindefusion-Steiermark/)|
+|[yildizma14/DiagrammProjekt](https://github.com/yildizma14/DiagrammProjekt/)|[Nationalratswahlen 2017 und 2013](https://yildizma14.github.io/DiagrammProjekt/)|
+|[DaSpake/sucproject](https://github.com/DaSpake/sucproject)|-|
+|[theroeck/SuC_tourism](https://github.com/theroeck/SuC_tourism/tree/gh-pages)|[Nächtigungszahlen Tourismusregion Schladming-Dachstein und Saalbach-Hinterglemm](https://theroeck.github.io/SuC_tourism/)|
+|[Angelikagross/FeinstaubinGraz](https://github.com/Angelikagross/FeinstaubinGraz)|-|
+|[judithrosabr/SuC_fertig](https://github.com/judithrosabr/SuC_fertig)|[World Happiness Report](https://judithrosabr.github.io/SuC_fertig/)|
+|[SandwichPhil/SuC_Projekt](https://github.com/SandwichPhil/SuC_Projekt)|[Bundespräsidentschaftswahl 2016 im Bundesland Salzburg](https://sandwichphil.github.io/SuC_Projekt/)|
+|[ikembafan/SuC_JPR16_GRAZ_WAHL](https://github.com/ikembafan/SuC_JPR16_GRAZ_WAHL/tree/gh-pages)|[Gemeinderatswahl Graz in den Jahren 2012 und 2017](https://ikembafan.github.io/SuC_JPR16_GRAZ_WAHL/)|
+|[martinpendl/Projekt_SuC](https://github.com/martinpendl/Projekt_SuC)|-|
+
+
