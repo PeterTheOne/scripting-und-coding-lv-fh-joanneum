@@ -42,7 +42,7 @@ Ablauf
 | 18. April | 09:45 - 12:00 | [SVG](projekt-2/) | [spec-2.md](projekt-2/spec-2.md) | 
 | 24. April | 09:45 - 12:00 | [Javascript](projekt-3/) | [spec-3.md](projekt-3/spec-3.md) | 
 | 27. April | 08:45 - 12:00 | [Javascript](projekt-4/) | [spec-4.md](projekt-4/spec-4.md) | 
-| 08. April | 08:45 - 10:15 | Präsentation   | - |
+| 08. Mai   | 08:45 - 10:15 | Präsentation   | - |
 
 
 ### Projekt: Gruppe B ###
@@ -53,7 +53,7 @@ Ablauf
 | 19. April | 14:00 - 16:15 | [SVG](projekt-2/) | [spec-2.md](projekt-2/spec-2.md) | 
 | 25. April | 08:45 - 12:00 | [Javascript](projekt-3/) | [spec-3.md](projekt-3/spec-3.md) | 
 | 26. April | 08:45 - 11:00 | [Javascript](projekt-4/) | [spec-4.md](projekt-4/spec-4.md) | 
-| 08. April | 10:30 - 12:00 | Präsentation   | - |
+| 08. Mai   | 10:30 - 12:00 | Präsentation   | - |
 
 
 Ziele & Benotung
