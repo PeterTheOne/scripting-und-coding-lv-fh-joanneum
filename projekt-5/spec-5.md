@@ -46,7 +46,7 @@ Aufgabe
 
 - Ein SVG Balkendiagram "händisch" schreiben (ich empfehle codepen beim schreiben)
 - Mit den Werten aus dem Datensatz
-- x und y Achsen mit Werten/Beschriftungen
+- x und y Achsen mit Werten und Achsen Beschriftungen
 - Sichtbare Überschrift oben
 - zusätzlich title tag im SVG
 - SVG inline ins index.html einfügen
