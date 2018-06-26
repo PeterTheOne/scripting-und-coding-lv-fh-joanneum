@@ -28,7 +28,7 @@ Aufgabe
   - Ergebnis Landtagswahl Tirol 2018
   - Ergebnis Gemeinderatswahl Innsbruck 2018
 - Bei den Vorschläge mind. die Parteien mit Mandaten verwenden, bei eigenem Thema mind. 5 Datensätze
-- Daten suchen
+- Daten zum Thema recherchieren
 
 
 ### index.html
